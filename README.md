@@ -53,7 +53,8 @@ node server.js
 
 #### prototype 사이트맵 구조
 
-####  ![Untitled Diagram](C:\Users\17\Downloads\Untitled Diagram.png)
+![Untitled Diagram](https://user-images.githubusercontent.com/65533291/89749628-89b5cf80-db03-11ea-9c5b-21dc6bd79e92.png)
+
 
 
 
