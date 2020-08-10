@@ -124,3 +124,6 @@ node registerUser.js
 node server.js
 ```
 
+![Untitled Diagram (2)](https://user-images.githubusercontent.com/65533291/89753988-30ef3280-db15-11ea-83ca-3edb29e07ff6.png)
+
+
